@@ -30,4 +30,3 @@ async def on_message(message):
 
 
 keep_alive()
-client.run('OTE5ODg0ODEzNTcyMzk1MDE4.YbcTfg.MkB52VttE5cMmzvFdJBSEmlFdMs')
